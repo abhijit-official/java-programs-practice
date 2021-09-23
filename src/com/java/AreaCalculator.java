@@ -5,6 +5,7 @@ public class AreaCalculator {
         Shape sh = new Circle(3);
         Shape sh1 = new Square(3);
 
+        
         Circle c = new Circle(2);
         Square s = new Square(3);
 
